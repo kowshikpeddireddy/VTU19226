@@ -13,3 +13,9 @@ Endpoint Definitions:
 /fibo/<int:n>: This endpoint returns the first n Fibonacci numbers.
 /numbers: This endpoint returns the numbers stored in the sliding window along with the average, current state of the window, and previous state (empty in this case).
 Main Execution Block: The Flask application is started if the script is executed directly.
+
+![op1](https://github.com/kowshikpeddireddy/VTU19226/assets/127022987/51640830-36ca-456f-a25f-b7f52b59ac76)
+![op2](https://github.com/kowshikpeddireddy/VTU19226/assets/127022987/76fd905f-2617-4ff5-b80e-b21fbe399f81)
+![op3](https://github.com/kowshikpeddireddy/VTU19226/assets/127022987/b4c695c3-5bb8-4ffb-880b-6e2cf2faf10f)
+![op4](https://github.com/kowshikpeddireddy/VTU19226/assets/127022987/abbb778b-9160-49a8-9b14-16f01f12865c)
+
